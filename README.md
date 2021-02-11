@@ -4,6 +4,9 @@ A new Flutter package with easy way to login in with google account in applicati
 
 ## Getting Started
 
+![20-12-22-10-55-19](https://user-images.githubusercontent.com/ezgif.com-gif-maker.gif)
+
+
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
